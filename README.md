@@ -72,15 +72,13 @@ Let's connect and build something awesome together!
 
 ### Let's connect 🤝
 
-<a href="www.linkedin.com/in/jordi-tapia-elenes-771613321" target="_blank">
+<a href="https://www.linkedin.com/in/jordi-tapia-elenes-771613321/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  Jordi Tapia Elenes-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 <br>
 <a href="mailto:jtapiaelenes24@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  jtapiaelenes24@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
-<a href="www.linkedin.com/in/jordi-tapia-elenes-771613321" target="_blank">
-PRUEBA LINK
-</a>
+
 
 
