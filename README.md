@@ -13,7 +13,7 @@ Let's connect and build something awesome together!
 <h4>A little more about me...</h4>
 
 <ul>
-  <li>🚀 I'm currently learning Spring Boot with Java.</li>
+  <li>🚀 I'm currently learning Spring Boot, Hibernate and JPA</li>
   <li>🎓 I also plan to study a Computer Science degree and become a Software Engineer.</li>
 </ul>
 
