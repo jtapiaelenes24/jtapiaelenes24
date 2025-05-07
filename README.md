@@ -8,14 +8,7 @@ I'm a Junior Web Developer with a passion for building and learning new technolo
 
 I'm always eager to improve my skills and explore new frameworks, tools, and best practices in the world of programming. 🚀
 
-Let's connect and build something awesome together!
-
-<h4>A little more about me...</h4>
-
-<ul>
-  <li>🚀 I'm currently learning Spring Boot, Hibernate and JPA</li>
-  <li>🎓 I also plan to study a Computer Science degree and become a Software Engineer.</li>
-</ul>
+Let's connect and build something awesome together!🚀
 
 <hr>
 
