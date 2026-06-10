@@ -4,7 +4,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-I'm a Junior Web Developer with a passion for building and learning new technologies. I recently completed my CFGS in Web Application Development (DAW), and I'm currently expanding my knowledge in both frontend and backend development.
+I'm a Web Developer with a passion for building and learning new technologies. I'm currently expanding my knowledge in both frontend and backend development.
 
 I'm always eager to improve my skills and explore new frameworks, tools, and best practices in the world of programming. 🚀
 
