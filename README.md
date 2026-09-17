@@ -6,9 +6,9 @@
 
 I'm a Web Developer with a passion for building and learning new technologies. I'm currently expanding my knowledge in both frontend and backend development.
 
-I'm always eager to improve my skills and explore new frameworks, tools, and best practices in the world of programming. 🚀
+I'm always eager to improve my skills and explore new frameworks, tools, and best practices in the world of programming. 
 
-Let's connect and build something awesome together!🚀
+Let's connect and build something awesome together!
 
 <hr>
 
